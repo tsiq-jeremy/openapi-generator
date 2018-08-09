@@ -848,6 +848,9 @@
                 </property>
             </activation>
             <modules>
+                <module>samples/client/petstore/swift4/default/SwaggerClientTests</module>
+                <module>samples/client/petstore/swift4/promisekit/SwaggerClientTests</module>
+                <module>samples/client/petstore/swift4/rxswift/SwaggerClientTests</module>
                 <module>samples/client/petstore/swift3/default/SwaggerClientTests</module>
                 <module>samples/client/petstore/swift3/promisekit/SwaggerClientTests</module>
                 <module>samples/client/petstore/swift3/rxswift/SwaggerClientTests</module>
